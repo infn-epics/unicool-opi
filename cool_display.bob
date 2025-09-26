@@ -12,7 +12,6 @@
   </scripts>
   <widget type="embedded" version="2.0.0">
     <name>element_template</name>
-    <file>cool_channel.bob</file>
     <y>270</y>
     <width>520</width>
     <height>30</height>

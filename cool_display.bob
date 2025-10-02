@@ -16,6 +16,7 @@
     <width>520</width>
     <height>30</height>
     <visible>false</visible>
+    <file>cool_channel.bob</file>
     <resize>2</resize>
   </widget>
 </display>
